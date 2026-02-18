@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
 
-Sitemap: https://alaskacg.github.io/ak-mines/sitemap.xml
+Sitemap: https://akmines.com/sitemap.xml
